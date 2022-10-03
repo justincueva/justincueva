@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Justin!
 
 <!--
 **justincueva/justincueva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About Me
+I'm an iOS developer and front-end web developer.
+
+### What I do for fun:
+I enjoy cooking, gardening, and running! I'm an avid PlayStation gamer. I'm a Funko POP collector and a watch collector!
