@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 🧑🏻‍💻 I'm an iOS developer and front-end web developer. I have a passion for connecting people through tech and advocating for user privacy.
 
 ### What I do for fun:
-👾 I enjoy cooking, gardening, and running! I'm an avid PlayStation gamer. I'm a Funko POP collector and a watch collector!
+👾 I enjoy cooking, gardening, and running! I'm an avid PlayStation gamer.
