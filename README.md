@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ### About Me
-🧑🏻‍💻 I'm an iOS developer and front-end web developer. I have a passion for connecting people through tech and advocating for user privacy.
+🧑🏻‍💻 I'm a Full-Stack Developer and Data Analyst. I have a passion for connecting people through tech and advocating for user privacy.
 
 ### What I do for fun:
 👾 I enjoy cooking, gardening, and running! I'm an avid PlayStation gamer.
+🎮 Currently playing: God of War Ragnarök
