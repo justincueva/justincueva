@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 ### What I do for fun:
 👾 I enjoy cooking, gardening, and running! I'm an avid PlayStation gamer.
-🎮 Currently playing: God of War Ragnarök
+🎮 Currently playing: God of War Ragnarök and NBA 2K24
